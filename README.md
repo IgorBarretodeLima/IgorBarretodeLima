@@ -40,12 +40,13 @@
   />
   <img
     height="180em"
-    src="https://lojapalmeiras.vtexassets.com/arquivos/ids/190217-1200-auto?v=639266421830500000&width=1200&height=auto&aspect=trueF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlencarAraujo&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF"
   />
 </div>
 
 ## 🐷 *Avanti! Construindo, aprendendo e evoluindo...*
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/IgorBarretodeLima/IgorBarretodeLima/snake-output/snake.svg?v=2" />
+<img src="https://lojapalmeiras.vtexassets.com/arquivos/ids/190217-1200-auto?v=639266421830500000&width=1200&height=auto&aspect=truef" />
 </div>
+
