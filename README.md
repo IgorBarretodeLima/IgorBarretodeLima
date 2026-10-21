@@ -13,20 +13,14 @@
 <img src="https://img.shields.io/badge/GITHUB-005B30?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/C%2B%2B-006437?style=for-the-badge&logo=cplusplus&logoColor=000814" />
 <img src="https://img.shields.io/badge/JAVA-006D3C?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-<img src="https://img.shields.io/badge/SPRING_BOOT-007641?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-
 <!-- Verde Intermediário/Misto -->
-<img src="https://img.shields.io/badge/JAVASCRIPT-008047?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/NODE.JS-00894C?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
 <img src="https://img.shields.io/badge/MYSQL-009251?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/HTML5-009C57?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-00A55C?style=for-the-badge&logo=css3&logoColor=1572B6" />
-
 <!-- Verde Destaque Palmeiras -->
-<img src="https://img.shields.io/badge/ANGULAR-00AF61?style=for-the-badge&logo=angular&logoColor=DD0031" />
+
 <img src="https://img.shields.io/badge/FIGMA-00B867?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/NOTION-00C26C?style=for-the-badge&logo=notion&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/CLAUDE-00CB71?style=for-the-badge&logo=claude&logoColor=D97757" />
+<img src="https://img.shields.io/badge/JAVA-006D3C?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
 
 </div>
 
