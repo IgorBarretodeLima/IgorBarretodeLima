@@ -19,7 +19,7 @@
 <!-- Verde Destaque Palmeiras -->
 
 <img src="https://img.shields.io/badge/FIGMA-00B867?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/JAVA-006D3C?style=for-the-badge&logo=openjdk&logoColor=f24e26" />
+<img src="https://img.shields.io/badge/JAVA-006D3C?style=for-the-badge&logo=openjdk&logoColor=F24E26" />
 
 </div>
 
