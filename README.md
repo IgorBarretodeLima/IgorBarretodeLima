@@ -34,7 +34,7 @@
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBarretodeLima&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBarretodeLima&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF"
   />
 </div>
 
