@@ -40,7 +40,7 @@
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBarretodeLima&layout=compact&hide_border=true&bg_color=051C10&title_color=00FF66&text_color=FFFFFF"
+    src="https://lojapalmeiras.vtexassets.com/arquivos/ids/190217-1200-auto?v=639266421830500000&width=1200&height=auto&aspect=trueF"
   />
 </div>
 
