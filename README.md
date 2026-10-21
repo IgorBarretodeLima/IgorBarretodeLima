@@ -31,9 +31,10 @@
     height="180em"
     src="https://github-readme-stats.vercel.app/api?username=IgorBarretodeLima&show_icons=true&hide_border=true&bg_color=051C10&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&ring_color=006437"
   />
+
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlencarAraujo&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBarretodeLima&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF"
   />
 </div>
 
