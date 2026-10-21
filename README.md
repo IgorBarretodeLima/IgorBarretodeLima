@@ -11,8 +11,7 @@
 <img src="https://img.shields.io/badge/LINUX-004D28?style=for-the-badge&logo=linux&logoColor=00FF66" />
 <img src="https://img.shields.io/badge/GIT-00522B?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GITHUB-005B30?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/C%2B%2B-006437?style=for-the-badge&logo=cplusplus&logoColor=000814" />
-<img src="https://img.shields.io/badge/JAVA-006D3C?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+
 <!-- Verde Intermediário/Misto -->
 <img src="https://img.shields.io/badge/MYSQL-009251?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/HTML5-009C57?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -20,7 +19,7 @@
 <!-- Verde Destaque Palmeiras -->
 
 <img src="https://img.shields.io/badge/FIGMA-00B867?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/JAVA-006D3C?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/JAVA-006D3C?style=for-the-badge&logo=openjdk&logoColor=f24e26" />
 
 </div>
 
