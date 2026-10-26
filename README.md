@@ -38,9 +38,4 @@
   />
 </div>
 
-## 🐷 *Avanti! Construindo, aprendendo e evoluindo...*
-
-<div align="center">
-<img src="https://lojapalmeiras.vtexassets.com/arquivos/ids/190217-1200-auto?v=639266421830500000&width=1200&height=auto&aspect=truef" />
-</div>
 
