@@ -29,18 +29,12 @@
 <div align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=IgorBarretodeLima&show_icons=true&hide_border=true&bg_color=051C10&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&ring_color=006437&cache_seconds=1800"
-    alt="Estatísticas do GitHub"
+    src="https://github-readme-stats-extended.vercel.app/api?username=IgorBarretodeLima&show_icons=true&hide_border=true&bg_color=051C10&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&ring_color=006437"
+    alt="Estatísticas de IgorBarretodeLima"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBarretodeLima&layout=compact&hide_border=true&bg_color=051C10&title_color=00FF66&text_color=FFFFFF&cache_seconds=1800"
-    alt="Linguagens Mais Usadas"
+    src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=IgorBarretodeLima&layout=compact&hide_border=true&bg_color=051C10&title_color=00FF66&text_color=FFFFFF"
+    alt="Linguagens mais usadas"
   />
 </div>
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBarretodeLima&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF"
-  />
-</div>
-
-
