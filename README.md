@@ -31,8 +31,6 @@
     height="180em"
     src="https://github-readme-stats-extended.vercel.app/api?username=IgorBarretodeLima&show_icons=true&hide_border=true&bg_color=051C10&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&ring_color=006437"
  
-    alt="Estatísticas de IgorBarretodeLima"
-  />
   <img
     height="180em"
     src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=IgorBarretodeLima&layout=compact&hide_border=true&bg_color=051C10&title_color=00FF66&text_color=FFFFFF"
